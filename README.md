@@ -1,6 +1,6 @@
 # SPEm
 
-*A **S**potify **P**layer **Em**bedding Tool*
+<i>A **S**potify **P**layer **Em**bedding Tool</i>
 
 I don't have a Spotify account, but I do like to check out the playlists that people share.
 
